@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649021224 source:d:\c\fechavalidamejorada\fechavalidamejorada\funciones.c
+	"header.h"
+
+1649021199 d:\c\fechavalidamejorada\fechavalidamejorada\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1649021236 source:d:\c\fechavalidamejorada\fechavalidamejorada\main.c
+	"header.h"
+
